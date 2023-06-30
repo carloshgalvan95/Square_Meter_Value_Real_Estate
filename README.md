@@ -4,7 +4,8 @@ The most important factor that influences the price per square meter of a proper
 
 ## Dataset
 ---
-![dataset]([(https://github.com/carloshgalvan95/Square_Meter_Value_Real_Estate/blob/main/resources/correlation_matrix.png)](https://github.com/carloshgalvan95/Square_Meter_Value_Real_Estate/blob/main/resources/correlation_matrix.png))
+![dataset](https://github.com/carloshgalvan95/Square_Meter_Value_Real_Estate/blob/main/resources/correlation_matrix.png)
+
 After evaluating the variables scraped from our website data source we identify a few important ones:
 - Number of Bedrooms
 - Amenities
