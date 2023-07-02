@@ -70,13 +70,13 @@ To be able to visualize the importance that each feature represents in our model
 ---
 From our final chart, we can see that the most important features to determine the price per square meter of a property are:
 
-- Vendor: We should take this with a grain of salt given that this is not an inherent variable of the property itself. Nevertheless is safe to assume that the vendor will play a significant role in the average value of the property. This will also help us determine tendencies and how every vendor plays with the market price.
+- **Vendor**: We should take this with a grain of salt given that this is not an inherent variable of the property itself. Nevertheless is safe to assume that the vendor will play a significant role in the average value of the property. This will also help us determine tendencies and how every vendor plays with the market price.
   
-- Neighbourhood: I will consider this to be our main feature to consider, the location of the property will play the most important role to determine the price per square meter of the property due to multiple factors, some of them previously mentioned, like how touristic the area is or how densely populated it is. All of them increase the desirability associated with that area.
+- **Neighbourhood**: I will consider this to be our main feature to consider, the location of the property will play the most important role to determine the price per square meter of the property due to multiple factors, some of them previously mentioned, like how touristic the area is or how densely populated it is. All of them increase the desirability associated with that area.
 
-- Street: This further confirms the hypothesis stated before, but it would be useful to evaluate the colinearity of both variables down the road to see if we can gain some predictive power in our model.
+- **Street**: This further confirms the hypothesis stated before, but it would be useful to evaluate the colinearity of both variables down the road to see if we can gain some predictive power in our model.
   
-- Number of Bedrooms: The correlation this feature plays is interesting to analyze, the number of bedrooms will increase the square meters built dividing the price among more square meters. It would be also interesting to deepen the correlation and determine if there is any point of marginal return where the increase of bedrooms or square meters starts to diminish.
+- **Number of Bedrooms**: The correlation this feature plays is interesting to analyze, the number of bedrooms will increase the square meters built dividing the price among more square meters. It would be also interesting to deepen the correlation and determine if there is any point of marginal return where the increase of bedrooms or square meters starts to diminish.
   
-- Airbnb Average Price per Night: As our previous hypothesis stated, gentrification will play an important role in evaluating real estate market tendencies, and adding this feature proved useful in order to increase the predictive power of our model.
+- **Airbnb Average Price per Night**: As our previous hypothesis stated, gentrification will play an important role in evaluating real estate market tendencies, and adding this feature proved useful in order to increase the predictive power of our model.
 
